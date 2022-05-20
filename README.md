@@ -2,6 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mickeykkim&count_private=true)
 
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeykkim&langs_count=10&layout=compact&exclude_repo=)
+
 <!--
 **mickeykkim/mickeykkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
